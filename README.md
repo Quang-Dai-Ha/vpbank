@@ -1,5 +1,5 @@
 # VP Bank Customer Segmentation & Revenue Opportunity Analysis
-
+> SQL, Power Query, Power BI, DAX, Data Modeling
 ---
 
 ## Context
@@ -55,10 +55,12 @@
 ## Dashboard
 
 ### Overview
-![Overview Dashboard](https://github.com/user-attachments/assets/b500f1d3-e8f0-4a99-80b0-8d360bc21ba2)
+![Overview Dashboard](https://github.com/user-attachments/assets/70d74cf6-9d21-44a2-a785-9e4737244fe9)
+
 
 ### Customer Segmentation
-![Customer Segmentation Dashboard](https://github.com/user-attachments/assets/b6c9bbdf-a465-45c0-946b-a6f216b694f1)
+![Customer Segmentation Dashboard](https://github.com/user-attachments/assets/010e1300-0c05-45ac-a4b4-393d28afae1d)
+
 
 ### Revenue Opportunity
-![Revenue Opportunity Dashboard](https://github.com/user-attachments/assets/d76be013-8748-4a3f-ad24-c14083059384)
+![Revenue Opportunity Dashboard](https://github.com/user-attachments/assets/6604ce8a-e721-4cfa-9956-9a8808af0dbd)
