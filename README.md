@@ -4,7 +4,7 @@
 
 ## Context
 - **Dataset:** 3 Excel files containing 113K+ anonymized customer records (AUM, customer profile, product holdings)  
-- **Objective:** Analyze customer behavior and identify key opportunities to support **20% KPI growth**, focusing on:
+- **Objective:** Analyze customer behavior and identify key opportunities to support 20% KPI growth, focusing on:
   - Service usage patterns  
   - Customer segmentation  
   - High-impact product strategies  
